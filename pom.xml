@@ -56,6 +56,7 @@
                             <classpathPrefix>lib/</classpathPrefix>
                             <classpathLayoutType>custom</classpathLayoutType>
                             <customClasspathLayout>$${artifact.groupId}.$${artifact.artifactId}.$${artifact.extension}</customClasspathLayout>
+                            <mainClass>com.badmitrii.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
